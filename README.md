@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-**Senior Azure DevOps Engineer** with **7+ years** of experience in **BFSI** and **Healthcare** domains at **Tata Consultancy Services**.
+
 
 ### 💼 Current Role & Impact
 - 🏥 Leading Azure infrastructure automation for **15+ healthcare applications**
